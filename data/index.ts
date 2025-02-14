@@ -74,6 +74,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Stephenson Brother Ecommerce website",
+    des: "INTERNSHIP: Developed a fast and user-friendly eCommerce website using WordPress, ensuring a seamless shopping experience with secure payments and responsive design. The site is optimized for performance, SEO, and easy product management.",
+    img: "/StephensonsBrothers.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://stephensonbrothersltd.com/",
+  },
+  {
+    id: 6,
+    title: "Get job resume website",
+    des: "INTERNSHIP: Developed a user-friendly  website for preparing resumes and cover letters  with AI assitance and job application",
+    img: "/GetJobResume.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "http://getjobresume.com/",
+  },
+  {
     id: 4,
     title: "Mock Website",
     des: "Responsive landing page, combining GSAP animations and Three.js 3D effects..",
